@@ -1,0 +1,43 @@
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\Projekt_Felulet.exe.config
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\Projekt_Felulet.exe
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\Projekt_Felulet.pdb
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csprojAssemblyReference.cache
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Properties.Resources.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csproj.GenerateResource.cache
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csproj.CoreCompileInputs.cache
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.exe
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.pdb
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Form1.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Regisztralas.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Futar.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Vendeg.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem_etelek_rogzitese.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem_Menu_felvitele.resources
+E:\6. Félév\Rendszerfejlesztés korszerű módszerei\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem_regisztralas.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csprojAssemblyReference.cache
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem_etelek_rogzitese.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem_Menu_felvitele.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Etterem_regisztralas.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Form1.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Futar.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Properties.Resources.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Regisztralas.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.Vendeg.resources
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csproj.GenerateResource.cache
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csproj.CoreCompileInputs.cache
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.exe
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.pdb
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\Projekt_Felulet.exe.config
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\Projekt_Felulet.exe
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\Projekt_Felulet.pdb
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\EntityFramework.dll
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\EntityFramework.SqlServer.dll
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\System.Data.SQLite.dll
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\EntityFramework.xml
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\EntityFramework.SqlServer.xml
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\bin\Debug\System.Data.SQLite.xml
+G:\Tanul\Rendszerfejlesztés\FElületek\FElületek\Projekt_Felulet\Projekt_Felulet\obj\Debug\Projekt_Felulet.csproj.CopyComplete
