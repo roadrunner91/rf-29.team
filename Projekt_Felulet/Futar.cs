@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SQLite;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -28,6 +29,15 @@ namespace Projekt_Felulet
             this.Hide();
             Form1 form = new Form1();
             form.Show();
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DB db = new DB();
+            db.openconnection();
+            SQLiteCommand cmd = new SQLiteCommand("insert into futar(datum) values('" + dateTimePicker1.Text + "')", db.GetConnection());
+            cmd.ExecuteNonQuery();
+            db.closeconnection();
+            dateTimePicker1.Text = "";
         }
     }
 }
